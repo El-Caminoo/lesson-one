@@ -4,3 +4,5 @@ class Student {
     this.age = age
   }
 }
+
+const student = new Student(Hubeida, 19)
